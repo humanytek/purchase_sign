@@ -1,3 +1,3 @@
 Purchase Sign
 =============
-TODO [IMP]
+Add a checkbox indicating if a purchase is signed
