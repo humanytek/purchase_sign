@@ -1,0 +1,26 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* purchase_sign
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-15 16:58+0000\n"
+"PO-Revision-Date: 2016-07-15 16:58+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: purchase_sign
+#: field:purchase.order,is_signed:0
+msgid "Is signed"
+msgstr "Está firmado"
+
+#. module: purchase_sign
+#: model:ir.model,name:purchase_sign.model_purchase_order
+msgid "Purchase Order"
+msgstr "Pedido de compra"
